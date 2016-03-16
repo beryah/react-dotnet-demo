@@ -1,4 +1,4 @@
 src/react-dotnet-demo/wwwroot/js/
 src/react-dotnet-demo/node_modules/
-src/react-dotnet-demo/js/dist/
+src/react-dotnet-demo/app/build/
 artifacts/
