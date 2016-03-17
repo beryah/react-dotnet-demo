@@ -2,7 +2,7 @@
 var assert = require('assert');
 var React = require('react/lib/ReactWithAddons.js');
 var TestUtils = React.addons.TestUtils;
-var Hello = require('../build/components/hello.js');
+var Hello = require('../components/hello.jsx');
 
 describe('hello', function () {
     jsdom();
