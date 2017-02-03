@@ -1,3 +1,5 @@
 src/react-dotnet-demo/wwwroot/js/
 src/react-dotnet-demo/node_modules/
 artifacts/
+\.vs/
+UpgradeLog\.htm
